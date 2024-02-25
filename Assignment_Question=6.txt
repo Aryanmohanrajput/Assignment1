@@ -1,0 +1,11 @@
+only 2 out of these are valid variable names
+
+1. first is not valid because it starts with naumber and a variable never starts with number.
+
+2. second is valid variable name.
+
+3. third is invalid because it is built in variable type.
+
+4. fourth is valid.
+
+5. fifth is not valid because we cannot use space in writing a variable name. 

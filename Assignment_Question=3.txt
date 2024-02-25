@@ -1,0 +1,3 @@
+Int = 4 bytes
+Bool = 1 byte
+Float = 4 bytes
